@@ -1,0 +1,14 @@
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\bin\Debug\netcoreapp2.1\OcelotWeb.deps.json
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\bin\Debug\netcoreapp2.1\OcelotWeb.runtimeconfig.json
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\bin\Debug\netcoreapp2.1\OcelotWeb.runtimeconfig.dev.json
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\bin\Debug\netcoreapp2.1\OcelotWeb.dll
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\obj\Debug\netcoreapp2.1\OcelotWeb.csprojAssemblyReference.cache
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\obj\Debug\netcoreapp2.1\OcelotWeb.csproj.CoreCompileInputs.cache
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\obj\Debug\netcoreapp2.1\OcelotWeb.RazorAssemblyInfo.cache
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\obj\Debug\netcoreapp2.1\OcelotWeb.RazorAssemblyInfo.cs
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\obj\Debug\netcoreapp2.1\OcelotWeb.AssemblyInfoInputs.cache
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\obj\Debug\netcoreapp2.1\OcelotWeb.AssemblyInfo.cs
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\obj\Debug\netcoreapp2.1\OcelotWeb.RazorTargetAssemblyInfo.cache
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\bin\Debug\netcoreapp2.1\OcelotWeb.pdb
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\obj\Debug\netcoreapp2.1\OcelotWeb.dll
+F:\TFSProject\OcelotLearn\OcelotWeb\OcelotWeb\obj\Debug\netcoreapp2.1\OcelotWeb.pdb
